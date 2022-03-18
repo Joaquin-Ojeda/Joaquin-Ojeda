@@ -1,4 +1,2 @@
 Hola, como estas?
- Soy estudiante de la UTN.
- Mi nombre es Joaquín y me gustan los videojuegos.
- Mi nombre en Steam es "Yukinaru" y en Discord Yukinaru#6327.
+ Mi nombre es Joaquín y soy estudiante de Ingenieria en Sistemas de Información en la UTN. Tengo conocimientos en C++, Java, HTML, CSS, Javascript, MySQL y algo de React.
